@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Stroopidity
 //
-//  Created by Anneka Curry on 3/4/22.
+//  Created by Anneka Curry on 2/20/22.
 //
 
 import UIKit
